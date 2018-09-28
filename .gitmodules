@@ -1,0 +1,6 @@
+[submodule "cafe.connor.fun-frontend"]
+	path = cafe.connor.fun-frontend
+	url = git@github.com:Spaceman1701/cafe.connor.fun-frontend.git
+[submodule "cafe.connor.fun-backend"]
+	path = cafe.connor.fun-backend
+	url = git@github.com:Spaceman1701/cafe.connor.fun-backend.git
