@@ -7,3 +7,6 @@
 [submodule "lighter"]
 	path = lighter
 	url = git@github.com:Spaceman1701/lighter.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Spaceman1701/cafe.connor.fun-backend.git
