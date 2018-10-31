@@ -4,12 +4,12 @@ My code is in 3 seperate respositories. Each of these repositories is a distinct
 
 ## Lighter Framework
 
-(https://github.com/Spaceman1701/lighter)[HERE]
+[HERE](https://github.com/Spaceman1701/lighter)
 
 ## Cafe.Connor.Fun Backend
 
-(https://github.com/Spaceman1701/cafe.connor.fun-backend)[HERE]
+[HERE](https://github.com/Spaceman1701/cafe.connor.fun-backend)
 
 ## Cafe.Connor.Fun Frontend
 
-(https://github.com/Spaceman1701/cafe.connor.fun-frontend)[HERE]
+[HERE][https://github.com/Spaceman1701/cafe.connor.fun-frontend]
