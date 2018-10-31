@@ -12,4 +12,4 @@ My code is in 3 seperate respositories. Each of these repositories is a distinct
 
 ## Cafe.Connor.Fun Frontend
 
-[HERE][https://github.com/Spaceman1701/cafe.connor.fun-frontend]
+[HERE](https://github.com/Spaceman1701/cafe.connor.fun-frontend)
